@@ -1,5 +1,5 @@
-# hp_omen_30L_big_sur_hackintosh
-Hp omen 30L(core i9-10000k comet lake) open core EFI for bigsur
+# hp omen 30L big sur hackintosh
+Hp omen 30L(core i9-10000k comet lake) opencore EFI for bigsur
 
 - CPU: Core i9-10000k Comet lake
 - RAM: 32GB
